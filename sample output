@@ -1,0 +1,7 @@
+🎮 Welcome to the Number Guessing Game!
+Enter your guess (1-100): 50
+🔼 Too high!
+Enter your guess (1-100): 30
+🔽 Too low!
+Enter your guess (1-100): 42
+🎉 Correct! You guessed it in 3 attempts.
